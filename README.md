@@ -1,5 +1,3 @@
-Aquí tienes definiciones cortas, ejemplos y resultados para algunos de los métodos de instancia más comunes de la clase `Date` en JavaScript:
-
 #### Obtener el día del mes:
 
 ```javascript
@@ -133,4 +131,3 @@ const currentDate = new Date();
 const localString = currentDate.toLocaleString(); // Resultado: Cadena de fecha y hora en formato local
 ```
 
-Estos son solo ejemplos básicos para ilustrar el uso de cada método. Puedes ejecutar estos códigos en un entorno JavaScript para ver los resultados específicos.
